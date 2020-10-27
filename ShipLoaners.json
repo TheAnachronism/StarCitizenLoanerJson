@@ -1,0 +1,357 @@
+{
+    "ShipLoaners": [
+        {
+            "https://robertsspaceindustries.com/pledge/ships/origin-100/100i": [
+                "https://robertsspaceindustries.com/pledge/ships/origin-300/300i"
+            ],
+            "https://robertsspaceindustries.com/pledge/ships/origin-100/125a": [
+                "https://robertsspaceindustries.com/pledge/ships/origin-300/300i"
+            ],
+            "https://robertsspaceindustries.com/pledge/ships/origin-100/135c": [
+                "https://robertsspaceindustries.com/pledge/ships/origin-300/300i"
+            ]
+        },
+        {
+            "https://robertsspaceindustries.com/pledge/ships/600i/600i-Touring": [
+                "https://robertsspaceindustries.com/pledge/ships/origin-300/325a",
+                "https://robertsspaceindustries.com/pledge/ships/cyclone/Cyclone-RN"
+            ],
+            "https://robertsspaceindustries.com/pledge/ships/600i/600i-Explorer": [
+                "https://robertsspaceindustries.com/pledge/ships/origin-300/325a",
+                "https://robertsspaceindustries.com/pledge/ships/cyclone/Cyclone-RN"
+            ]
+        },
+        {
+            "https://robertsspaceindustries.com/pledge/ships/890-jump/890-Jump": [
+                "https://robertsspaceindustries.com/pledge/ships/600i/600i-Explorer",
+                "https://robertsspaceindustries.com/pledge/ships/origin-300/325a",
+                "https://robertsspaceindustries.com/pledge/ships/85x/85X"
+            ]
+        },
+        {
+            "https://robertsspaceindustries.com/pledge/ships/rsi-apollo/Apollo-Triage": [
+                "https://robertsspaceindustries.com/pledge/ships/drake-cutlass/Cutlass-Red"
+            ],
+            "https://robertsspaceindustries.com/pledge/ships/rsi-apollo/Apollo-Medivac": [
+                "https://robertsspaceindustries.com/pledge/ships/drake-cutlass/Cutlass-Red"
+            ]
+        },
+        {
+            "https://robertsspaceindustries.com/pledge/ships/crusader-ares/Crusader-Ares-Inferno": [
+                "https://robertsspaceindustries.com/pledge/ships/hurricane/Hurricane"
+            ],
+            "https://robertsspaceindustries.com/pledge/ships/crusader-ares/Crusader-Ares-Ion": [
+                "https://robertsspaceindustries.com/pledge/ships/hurricane/Hurricane"
+            ]
+        },
+        {
+            "https://robertsspaceindustries.com/pledge/ships/carrack/Carrack-Expedition": [
+                "https://robertsspaceindustries.com/pledge/ships/anvil-pisces/C8-Pisces",
+                "https://robertsspaceindustries.com/pledge/ships/ursa/Ursa-Rover"
+            ],
+            "https://robertsspaceindustries.com/pledge/ships/carrack/Carrack": [
+                "https://robertsspaceindustries.com/pledge/ships/anvil-pisces/C8-Pisces",
+                "https://robertsspaceindustries.com/pledge/ships/ursa/Ursa-Rover"
+            ]
+        },
+        {
+            "https://robertsspaceindustries.com/pledge/ships/carrack/Carrack-Expedition-W-C8X": [
+                "https://robertsspaceindustries.com/pledge/ships/anvil-pisces/C8X-Pisces-Expedition",
+                "https://robertsspaceindustries.com/pledge/ships/ursa/Ursa-Rover"
+            ],
+            "https://robertsspaceindustries.com/pledge/ships/carrack/Carrack-W-C8X": [
+                "https://robertsspaceindustries.com/pledge/ships/anvil-pisces/C8X-Pisces-Expedition",
+                "https://robertsspaceindustries.com/pledge/ships/ursa/Ursa-Rover"
+            ]
+        },
+        {
+            "https://robertsspaceindustries.com/pledge/ships/drake-caterpillar/Caterpillar": [
+                "https://robertsspaceindustries.com/pledge/ships/drake-buccaneer/Buccaneer"
+            ],
+            "https://robertsspaceindustries.com/pledge/ships/drake-caterpillar/Caterpillar-Pirate-Edition": [
+                "https://robertsspaceindustries.com/pledge/ships/drake-buccaneer/Buccaneer"
+            ],
+            "https://robertsspaceindustries.com/pledge/ships/drake-caterpillar/Caterpillar-Best-In-Show-Edition": [
+                "https://robertsspaceindustries.com/pledge/ships/drake-buccaneer/Buccaneer"
+            ]
+        },
+        {
+            "https://robertsspaceindustries.com/pledge/ships/rsi-constellation/Constellation-Taurus": [
+                "https://robertsspaceindustries.com/pledge/ships/rsi-constellation/Constellation-Andromeda"
+            ]
+        },
+        {
+            "https://robertsspaceindustries.com/pledge/ships/drake-corsair/Corsair": [
+                "https://robertsspaceindustries.com/pledge/ships/rsi-constellation/Constellation-Aquila",
+                "https://robertsspaceindustries.com/pledge/ships/drake-buccaneer/Buccaneer"
+            ]
+        },
+        {
+            "https://robertsspaceindustries.com/pledge/ships/crucible/Crucible": [
+                "https://robertsspaceindustries.com/pledge/ships/rsi-constellation/Constellation-Andromeda"
+            ]
+        },
+        {
+            "https://robertsspaceindustries.com/pledge/ships/drake-cutlass/Cutlass-Blue": [
+                "https://robertsspaceindustries.com/pledge/ships/drake-cutlass/Cutlass-Black"
+            ]
+        },
+        {
+            "https://robertsspaceindustries.com/pledge/ships/cyclone/Cyclone": [
+                "https://robertsspaceindustries.com/pledge/ships/rsi-aurora/Aurora-MR"
+            ],
+            "https://robertsspaceindustries.com/pledge/ships/cyclone/Cyclone-TR": [
+                "https://robertsspaceindustries.com/pledge/ships/rsi-aurora/Aurora-MR"
+            ],
+            "https://robertsspaceindustries.com/pledge/ships/cyclone/Cyclone-RC": [
+                "https://robertsspaceindustries.com/pledge/ships/rsi-aurora/Aurora-MR"
+            ],
+            "https://robertsspaceindustries.com/pledge/ships/cyclone/Cyclone-RN":[
+                "https://robertsspaceindustries.com/pledge/ships/rsi-aurora/Aurora-MR"
+            ],
+            "https://robertsspaceindustries.com/pledge/ships/cyclone/Cyclone-AA": [
+                "https://robertsspaceindustries.com/pledge/ships/rsi-aurora/Aurora-MR"
+            ]
+        },
+        {
+            "https://robertsspaceindustries.com/pledge/ships/drake-dragonfly/Dragonfly-Yellowjacket": [
+                "https://robertsspaceindustries.com/pledge/ships/rsi-aurora/Aurora-MR"
+            ],
+            "https://robertsspaceindustries.com/pledge/ships/drake-dragonfly/Dragonfly-Black": [
+                "https://robertsspaceindustries.com/pledge/ships/rsi-aurora/Aurora-MR"
+            ]
+        },
+        {
+            "https://robertsspaceindustries.com/pledge/ships/misc-endeavor/Endeavor": [
+                "https://robertsspaceindustries.com/pledge/ships/misc-starfarer/Starfarer",
+                "https://robertsspaceindustries.com/pledge/ships/drake-cutlass/Cutlass-Red"
+            ]
+        },
+        {
+            "https://robertsspaceindustries.com/pledge/ships/origin-g12/Origin-G12": [
+                "https://robertsspaceindustries.com/pledge/ships/cyclone/Cyclone-TR"
+            ],
+            "https://robertsspaceindustries.com/pledge/ships/origin-g12/Origin-G12r": [
+                "https://robertsspaceindustries.com/pledge/ships/cyclone/Cyclone-RC"
+            ],
+            "https://robertsspaceindustries.com/pledge/ships/origin-g12/Origin-G12a": [
+                "https://robertsspaceindustries.com/pledge/ships/cyclone/Cyclone-AA"
+            ]
+        },
+        {
+            "https://robertsspaceindustries.com/pledge/ships/starliner/Genesis-Starliner": [
+                "https://robertsspaceindustries.com/pledge/ships/rsi-constellation/Constellation-Andromeda"
+            ]
+        },
+        {
+            "https://robertsspaceindustries.com/pledge/ships/crusader-starlifter/C2-Hercules": [
+                "https://robertsspaceindustries.com/pledge/ships/misc-starfarer/Starfarer-Gemini"
+            ],
+            "https://robertsspaceindustries.com/pledge/ships/crusader-starlifter/M2-Hercules": [
+                "https://robertsspaceindustries.com/pledge/ships/misc-starfarer/Starfarer-Gemini"
+            ],
+            "https://robertsspaceindustries.com/pledge/ships/crusader-starlifter/A2-Hercules": [
+                "https://robertsspaceindustries.com/pledge/ships/misc-starfarer/Starfarer-Gemini"
+            ]
+        },
+        {
+            "https://robertsspaceindustries.com/pledge/ships/hull/Hull-A": [
+                "https://robertsspaceindustries.com/pledge/ships/misc-freelancer/Freelancer"
+            ],
+            "https://robertsspaceindustries.com/pledge/ships/hull/Hull-B": [
+                "https://robertsspaceindustries.com/pledge/ships/misc-freelancer/Freelancer"
+            ],
+            "https://robertsspaceindustries.com/pledge/ships/hull/Hull-C": [
+                "https://robertsspaceindustries.com/pledge/ships/drake-caterpillar/Caterpillar"
+            ],
+            "https://robertsspaceindustries.com/pledge/ships/hull/Hull-D": [
+                "https://robertsspaceindustries.com/pledge/ships/drake-caterpillar/Caterpillar",
+                "https://robertsspaceindustries.com/pledge/ships/reclaimer/Reclaimer"
+            ],
+            "https://robertsspaceindustries.com/pledge/ships/hull/Hull-E": [
+                "https://robertsspaceindustries.com/pledge/ships/drake-caterpillar/Caterpillar",
+                "https://robertsspaceindustries.com/pledge/ships/reclaimer/Reclaimer"
+            ]
+        },
+        {
+            "https://robertsspaceindustries.com/pledge/ships/hurricane/Hurricane": [
+                "https://robertsspaceindustries.com/pledge/ships/anvil-hornet/F7C-M-Super-Hornet"
+            ]
+        },
+        {
+            "https://robertsspaceindustries.com/pledge/ships/aegis-idris/Idris-M": [
+                "https://robertsspaceindustries.com/pledge/ships/hammerhead/Hammerhead",
+                "https://robertsspaceindustries.com/pledge/ships/argo/MPUV-Personnel"
+            ],
+            "https://robertsspaceindustries.com/pledge/ships/aegis-idris/Idris-P": [
+                "https://robertsspaceindustries.com/pledge/ships/hammerhead/Hammerhead",
+                "https://robertsspaceindustries.com/pledge/ships/argo/MPUV-Personnel"
+            ]
+        },
+        {
+            "https://robertsspaceindustries.com/pledge/ships/aegis-javelin/Javelin": [
+                "https://robertsspaceindustries.com/pledge/ships/hammerhead/Hammerhead",
+                "https://robertsspaceindustries.com/pledge/ships/argo/MPUV-Cargo"
+            ]
+        },
+        {
+            "https://robertsspaceindustries.com/pledge/ships/drake-kraken/Kraken": [
+                "https://robertsspaceindustries.com/pledge/ships/hammerhead/Hammerhead",
+                "https://robertsspaceindustries.com/pledge/ships/drake-caterpillar/Caterpillar",
+                "https://robertsspaceindustries.com/pledge/ships/drake-buccaneer/Buccaneer"
+            ],
+            "https://robertsspaceindustries.com/pledge/ships/drake-kraken/Kraken-Privateer": [
+                "https://robertsspaceindustries.com/pledge/ships/hammerhead/Hammerhead",
+                "https://robertsspaceindustries.com/pledge/ships/drake-caterpillar/Caterpillar",
+                "https://robertsspaceindustries.com/pledge/ships/drake-buccaneer/Buccaneer"
+            ]
+        },
+        {
+            "https://robertsspaceindustries.com/pledge/ships/rsi-mantis/Mantis": [
+                "https://robertsspaceindustries.com/pledge/ships/rsi-aurora/Aurora-LN"
+            ]
+        },
+        {
+            "https://robertsspaceindustries.com/pledge/ships/merchantman/Merchantman": [
+                "https://robertsspaceindustries.com/pledge/ships/drake-caterpillar/Caterpillar",
+                "https://robertsspaceindustries.com/pledge/ships/defender/Banu-Defender"
+            ]
+        },
+        {
+            "https://robertsspaceindustries.com/pledge/ships/crusader-mercury-star-runner/Mercury-Star-Runner": [
+                "https://robertsspaceindustries.com/pledge/ships/misc-freelancer/Freelancer",
+                "https://robertsspaceindustries.com/pledge/ships/herald/Herald"
+            ]
+        },
+        {
+            "https://robertsspaceindustries.com/pledge/ships/argo-mole/Argo-Mole": [
+                "https://robertsspaceindustries.com/pledge/ships/anvil-hornet/F7C-Hornet"
+            ],
+            "https://robertsspaceindustries.com/pledge/ships/argo-mole/Argo-Mole-Talus-Edition": [
+                "https://robertsspaceindustries.com/pledge/ships/anvil-hornet/F7C-Hornet"
+            ],
+            "https://robertsspaceindustries.com/pledge/ships/argo-mole/Argo-Mole-Carbon-Edition": [
+                "https://robertsspaceindustries.com/pledge/ships/anvil-hornet/F7C-Hornet"
+            ]
+        },
+        {
+            "https://robertsspaceindustries.com/pledge/ships/aegis-nautilus/Nautilus": [
+                "https://robertsspaceindustries.com/pledge/ships/hammerhead/Hammerhead",
+                "https://robertsspaceindustries.com/pledge/ships/aegis-avenger/Avenger-Titan"
+            ],
+            "https://robertsspaceindustries.com/pledge/ships/aegis-nautilus/Nautilus-Solstice-Edition": [
+                "https://robertsspaceindustries.com/pledge/ships/hammerhead/Hammerhead",
+                "https://robertsspaceindustries.com/pledge/ships/aegis-avenger/Avenger-Titan"
+            ]
+        },
+        {
+            "https://robertsspaceindustries.com/pledge/ships/nox/Nox": [
+                "https://robertsspaceindustries.com/pledge/ships/rsi-aurora/Aurora-MR"
+            ],
+            "https://robertsspaceindustries.com/pledge/ships/nox/Nox-Kue": [
+                "https://robertsspaceindustries.com/pledge/ships/rsi-aurora/Aurora-MR"
+            ]
+        },
+        {
+            "https://robertsspaceindustries.com/pledge/ships/orion/Orion": [
+                "https://robertsspaceindustries.com/pledge/ships/misc-prospector/Prospector",
+                "https://robertsspaceindustries.com/pledge/ships/argo-mole/Argo-Mole"
+            ]
+        },
+        {
+            "https://robertsspaceindustries.com/pledge/ships/p72-archimedes/P72-Archimedes-Emerald": [
+                "https://robertsspaceindustries.com/pledge/ships/p72-archimedes/P72-Archimedes"
+            ]
+        },
+        {
+            "https://robertsspaceindustries.com/pledge/ships/pioneer/Pioneer": [
+                "https://robertsspaceindustries.com/pledge/ships/hammerhead/Hammerhead"
+            ]
+        },
+        {
+            "https://robertsspaceindustries.com/pledge/ships/tumbril-ranger/Ranger-CV": [
+                "https://robertsspaceindustries.com/pledge/ships/cyclone/Cyclone"
+            ],
+            "https://robertsspaceindustries.com/pledge/ships/tumbril-ranger/Ranger-RC": [
+                "https://robertsspaceindustries.com/pledge/ships/cyclone/Cyclone-RC"
+            ],
+            "https://robertsspaceindustries.com/pledge/ships/tumbril-ranger/Ranger-TR": [
+                "https://robertsspaceindustries.com/pledge/ships/cyclone/Cyclone-TR"
+            ]
+        },
+        {
+            "https://robertsspaceindustries.com/pledge/ships/redeemer/Redeemer": [
+                "https://robertsspaceindustries.com/pledge/ships/vanguard/Vanguard-Hoplite"
+            ]
+        },
+        {
+            "https://robertsspaceindustries.com/pledge/ships/aegis-retaliator/Retaliator-Base": [
+                "https://robertsspaceindustries.com/pledge/ships/anvil-gladiator/Gladiator"
+            ],
+            "https://robertsspaceindustries.com/pledge/ships/aegis-retaliator/Retaliator-Bomber": [
+                "https://robertsspaceindustries.com/pledge/ships/anvil-gladiator/Gladiator"
+            ]
+        },
+        {
+            "https://robertsspaceindustries.com/pledge/ships/roc/ROC": [
+                "https://robertsspaceindustries.com/pledge/ships/rsi-aurora/Aurora-MR"
+            ]
+        },
+        {
+            "https://robertsspaceindustries.com/pledge/ships/aopoa-santokyai/Santoky-i": [
+                "https://robertsspaceindustries.com/pledge/ships/khartu/Khartu-Al"
+            ]
+        },
+        {
+            "https://robertsspaceindustries.com/pledge/ships/argo-srv/SRV": [
+                "https://robertsspaceindustries.com/pledge/ships/misc-prospector/Prospector"
+            ]
+        },
+        {
+            "https://robertsspaceindustries.com/pledge/ships/talon/Esperia-Talon": [
+                "https://robertsspaceindustries.com/pledge/ships/khartu/Khartu-Al"
+            ],
+            "https://robertsspaceindustries.com/pledge/ships/talon/Esperia-Talon-Shrike": [
+                "https://robertsspaceindustries.com/pledge/ships/khartu/Khartu-Al"
+            ]
+        },
+        {
+            "https://robertsspaceindustries.com/pledge/ships/terrapin/Terrapin": [
+                "https://robertsspaceindustries.com/pledge/ships/anvil-hornet/F7C-M-Super-Hornet"
+            ]
+        },
+        {
+            "https://robertsspaceindustries.com/pledge/ships/anvil-valkyrie/Valkyrie": [
+                "https://robertsspaceindustries.com/pledge/ships/anvil-hornet/F7C-M-Super-Hornet"
+            ],
+            "https://robertsspaceindustries.com/pledge/ships/anvil-valkyrie/Valkyrie-Liberator-Edition": [
+                "https://robertsspaceindustries.com/pledge/ships/anvil-hornet/F7C-M-Super-Hornet"
+            ]
+        },
+        {
+            "https://robertsspaceindustries.com/pledge/ships/vulcan/Vulcan": [
+                "https://robertsspaceindustries.com/pledge/ships/misc-freelancer/Freelancer"
+            ]
+        },
+        {
+            "https://robertsspaceindustries.com/pledge/ships/drake-vulture/Vulture": [
+                "https://robertsspaceindustries.com/pledge/ships/misc-prospector/Prospector",
+                "https://robertsspaceindustries.com/pledge/ships/drake-buccaneer/Buccaneer"
+            ]
+        },
+        {
+            "https://robertsspaceindustries.com/pledge/ships/x1/X1-Base": [
+                "https://robertsspaceindustries.com/pledge/ships/rsi-aurora/Aurora-MR",
+                "https://robertsspaceindustries.com/pledge/ships/nox/Nox"
+            ],
+            "https://robertsspaceindustries.com/pledge/ships/x1/X1-Velocity": [
+                "https://robertsspaceindustries.com/pledge/ships/rsi-aurora/Aurora-MR",
+                "https://robertsspaceindustries.com/pledge/ships/nox/Nox"
+            ],
+            "https://robertsspaceindustries.com/pledge/ships/x1/X1-Force": [
+                "https://robertsspaceindustries.com/pledge/ships/rsi-aurora/Aurora-MR",
+                "https://robertsspaceindustries.com/pledge/ships/nox/Nox"
+            ]
+        }
+    ]
+}
